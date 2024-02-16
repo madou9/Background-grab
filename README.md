@@ -1,1 +1,1 @@
-Creating a page entitled Background-color using html and javascript 
+Creating a page entitled Background-color using html and javascrip.
